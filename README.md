@@ -1,51 +1,53 @@
-<h1 align="center">🚀 <span style="color:#00ffcc;">Hanif-X</span> | <span style="color:#ffcc00;">Cybersecurity Researcher & Software Architect</span></h1>
+<h1 align="center">🚀 Hanif-X | <span style="color:#00ffcc;">Cybersecurity Researcher & Software Architect</span></h1>
 
 <p align="center">
-  <b><span style="color:#ff6666;">Innovator</span> | <span style="color:#66ccff;">Security Enthusiast</span> | <span style="color:#00ff99;">AI & System Architect</span> | <span style="color:#ff9900;">Open-Source Contributor</span></b>
+  <img src="https://img.shields.io/badge/Cybersecurity-Expert-%2300ffcc?style=for-the-badge&logo=security" alt="Cybersecurity Expert">
+  <img src="https://img.shields.io/badge/Software-Engineer-%23ffcc00?style=for-the-badge&logo=codeforces" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/Modules-Developer-%23ff6666?style=for-the-badge&logo=python" alt="Modules Developer">
+  <img src="https://img.shields.io/badge/AI-%23ff9900?style=for-the-badge&logo=ai" alt="AI & Automation">
 </p>
 
 ---
 
-## 🛡️ <span style="color:#00ffcc;">Expertise</span>  
+## 🛠️ **Expertise**
 ✅ **Cybersecurity & Ethical Hacking** – Penetration testing, digital forensics, and security architecture.  
-✅ **Software Engineering** – Scalable, high-performance application design in **Python, C/C++, PHP, R, and Ruby**.  
-✅ **AI & Machine Learning** – Developing intelligent security systems and automation tools.  
-✅ **Networking & Infrastructure Security** – VPN, proxy development, and secure communication protocols.  
-✅ **Database Security & Encryption** – Architecting robust, intrusion-resistant databases.  
-✅ **Custom Script & Bot Development** – Creating AI-driven **Telegram bots** and automation scripts.  
+✅ **Software Development** – Scalable, high-performance applications in **Python, C/C++, PHP, R, and Ruby**.  
+✅ **AI & Machine Learning** – Building automation tools and cybersecurity solutions.  
+✅ **Networking & Infrastructure Security** – VPN, proxy development, and encrypted communication.  
+✅ **Database Security & Encryption** – Developing secure and intrusion-resistant database systems.  
+✅ **Custom Modules & API Development** – Python & PHP **module development** for cybersecurity and automation.  
 
 ---
 
-## 📡 <span style="color:#ffcc00;">Research & Development</span>  
-🔹 **AI-driven Cyber Threat Detection** – Building machine learning models for intrusion detection.  
-🔹 **End-to-End Encryption** – Implementing advanced cryptographic security protocols.  
-🔹 **Secure Cloud & DevSecOps** – Strengthening cloud security and integrating security into DevOps.  
-🔹 **Custom VPN & Proxy Solutions** – Developing secure communication infrastructures.  
-🔹 **Automation & AI-based Scripting** – Crafting tools that automate security and development tasks.  
+## 🚀 **Notable Projects**
+🔹 **HanifX Module** – A custom Python module for **hashing & cybersecurity**.  
+🔹 **Telegram AI Bot** – A bot that generates scripts in multiple programming languages.  
+🔹 **VPN Proxy System** – A secure VPN proxy solution in **C++**.  
+🔹 **Secure Database System** – Advanced **Ruby & PHP-based** database security solution.  
 
 ---
 
-## 🔥 <span style="color:#ff6666;">Notable Projects</span>  
-✅ **HanifX Module** – A custom Python module for secure hashing and cybersecurity tasks.  
-✅ **Telegram Bot Development** – AI-powered bot that generates scripts in multiple languages.  
-✅ **Custom VPN Proxy** – Secure and encrypted proxy solution developed in C++.  
-✅ **Secure Database Systems** – Advanced PHP & Ruby-based database security solutions.  
+## 🧑‍💻 **Research & Development**
+💡 **AI-driven Threat Detection** – Machine learning for cyber threat identification.  
+💡 **End-to-End Encryption** – Advanced cryptographic security protocols.  
+💡 **Secure DevOps & Cloud Security** – Strengthening cloud infrastructure security.  
+💡 **Automation & AI-Based Scripting** – Enhancing cybersecurity automation.  
 
 ---
 
-## 🤝 <span style="color:#66ccff;">Collaboration & Innovation</span>  
-🔹 Open to strategic collaborations on:  
+## 🤝 **Collaboration & Innovation**
+🔹 Open to collaborations on:  
 ✅ Advanced **Cybersecurity Frameworks**  
-✅ AI-powered **Security Automation**  
-✅ Scalable, **Security-Focused Software**  
-✅ **Cryptographic & Secure Database Solutions**  
+✅ AI-powered **Automation Tools**  
+✅ Secure **Database & API Development**  
+✅ Cryptographic & **Secure Communication Systems**  
 
 ---
 
-## 📬 <span style="color:#ffcc00;">Connect with Me</span>  
+## 📬 **Connect with Me**
 📧 **Email:** [sajim4653@gmail.com](mailto:sajim4653@gmail.com)  
 🌐 **Website:** [hanif-storess.weebly.com](https://hanif-storess.weebly.com)  
 
 ---
 
-<h3 align="center" style="color:#00ffcc;">🔹 Driven by curiosity, secured by innovation. 🔹</h3>
+<h3 align="center">🚀 <span style="color:#00ffcc;">"Driven by Curiosity, Secured by Innovation."</span> 🚀</h3>
